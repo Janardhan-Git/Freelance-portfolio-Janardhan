@@ -9,10 +9,9 @@ Welcome to my portfolio! I'm Janardhan, a freelance engineer specializing in:
 This app showcases a few of my real-world projects and the services I offer.
 
 ## 📂 Projects Highlighted
-- [SIEM Log Analyzer](https://github.com/Janardhan-Git/log-analysis-agent-streamlit)
+- [SIEM Log Analyzer](https://spam-email-classifier-2v3ht7ynf9uf8qcsajdoyb.streamlit.app/)
 - [Phishing Email Classifier](https://github.com/Janardhan-Git/phishing-email-detector)
-- [YouTube Video Editor Tool](https://github.com/Janardhan-Git/youtube-downloader-app)
-- [Ad Blocker VPN App](https://github.com/Janardhan-Git/android-adblocker-vpn)
+- [YouTube Video Editor Tool](https://yt-vid-downloader-editor.streamlit.app/)
 
 ## 🔧 Tech Stack
 - Streamlit
